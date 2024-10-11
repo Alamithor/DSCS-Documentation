@@ -10,27 +10,25 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Simple DSCS Mod Manager',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A poorly-named mod manager for the PC release of Digimon Story: Cyber Sleuth Complete Edition.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Blender Tools for DSCS',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        An addon for Blender to import and export model files from the PC version of Digimon Story: Cyber Sleuth.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Digi S Mod Editor',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
